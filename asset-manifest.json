@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/putstoe-assignment/static/css/main.6a06a18e.css",
+    "main.js": "/putstoe-assignment/static/js/main.31aff770.js",
+    "static/media/grocery.jfif": "/putstoe-assignment/static/media/grocery.191d2745f2c20fa0b87d.jfif",
+    "static/media/download.jfif": "/putstoe-assignment/static/media/download.2ca6ae3d99a0382387e7.jfif",
+    "static/media/location-2-svgrepo-com.svg": "/putstoe-assignment/static/media/location-2-svgrepo-com.c09fe6e6fab68793b7abb8849db22268.svg",
+    "static/media/drop-svgrepo-com.svg": "/putstoe-assignment/static/media/drop-svgrepo-com.c042ea0868796879b138801b049c316f.svg",
+    "static/media/cart-svgrepo-com.svg": "/putstoe-assignment/static/media/cart-svgrepo-com.da4b74e4e66c5a5ca969484a78eca309.svg",
+    "index.html": "/putstoe-assignment/index.html",
+    "static/media/bell-svgrepo-com.svg": "/putstoe-assignment/static/media/bell-svgrepo-com.6f0101ed128197b6d089082da933240d.svg",
+    "static/media/mic-solid-svgrepo-com.svg": "/putstoe-assignment/static/media/mic-solid-svgrepo-com.dde19605f1cf29e20e7a2413bcc583f5.svg",
+    "static/media/a-button-svgrepo-com.svg": "/putstoe-assignment/static/media/a-button-svgrepo-com.d694b010d8b3ea21b1dcec39c3354eee.svg",
+    "static/media/search-svgrepo-com.svg": "/putstoe-assignment/static/media/search-svgrepo-com.80cf8b0391e3dfdc7e4cdd447ab8c076.svg",
+    "main.6a06a18e.css.map": "/putstoe-assignment/static/css/main.6a06a18e.css.map",
+    "main.31aff770.js.map": "/putstoe-assignment/static/js/main.31aff770.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a06a18e.css",
+    "static/js/main.31aff770.js"
+  ]
+}
