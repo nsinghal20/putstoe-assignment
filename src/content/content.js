@@ -1,0 +1,122 @@
+export default [
+  {
+    heading: 'Daily Needs',
+    pdt: [
+      'Almond milk',
+      'Juice',
+      'Amla',
+      'Aloo bhujia',
+      'Bikaneri Bhujia',
+      'Navaratan Mixture',
+      'Khatta Meetha',
+      'Hing Chana',
+      'Royal brick',
+      'Acc gold',
+      'Income tax',
+      'Tax Audit',
+    ],
+  },
+  {
+    heading: 'Daily Needs',
+    pdt: [
+      'Almond milk',
+      'juice',
+      'Amla',
+      'Aloo bhujia',
+      
+    ],
+  },
+  {
+    heading: 'Daily Needs',
+    pdt: ['Almond milk', 'juice', 'Amla', 'Aloo bhujia'],
+  },
+  {
+    heading: 'Daily Needs',
+    pdt: [
+      'Almond milk',
+      'juice',
+      'Amla',
+      'Aloo bhujia',
+      'Bikaneri Bhujia',
+      'Navaratan Mixture',
+      'Khatta Meetha',
+      'Hing Chana',
+    ],
+  },
+  {
+    heading: 'Daily Needs',
+    pdt: [
+      'Almond milk',
+      'juice',
+      
+    ],
+  },
+  {
+    heading: 'Daily Needs',
+    pdt: [
+      'Almond milk',
+      'Bikaneri Bhujia',
+      'Navaratan Mixture',
+      'Khatta Meetha',
+      'Hing Chana',
+    ],
+  },
+  {
+    heading: 'Daily Needs',
+    pdt: [
+      'Almond milk',
+      'Juice',
+      'Amla',
+      'Aloo bhujia',
+      'Bikaneri Bhujia',
+      'Navaratan Mixture',
+      'Khatta Meetha',
+      'Hing Chana',
+      'Royal brick',
+      'Acc gold',
+      'Income tax',
+      'Tax Audit',
+    ],
+  },
+  {
+    heading: 'Daily Needs',
+    pdt: [
+      'Almond milk',
+      'juice',
+      'Amla',
+      'Aloo bhujia',
+      'Bikaneri Bhujia',
+      'Navaratan Mixture',
+    ],
+  },
+  {
+    heading: 'Daily Needs',
+    pdt: [
+      'Almond milk',
+      'Juice',
+      'Amla',
+      'Aloo bhujia',
+      'Bikaneri Bhujia',
+      'Navaratan Mixture',
+      'Khatta Meetha',
+      'Hing Chana',
+      'Royal brick',
+      'Acc gold',
+      'Income tax',
+      'Tax Audit',
+    ],
+  },
+  {
+    heading: 'Daily Needs',
+    pdt: [
+      'Almond milk',
+      'juice',
+      'Amla',
+      'Aloo bhujia',
+      'Bikaneri Bhujia',
+      'Navaratan Mixture',
+      'Khatta Meetha',
+      'Hing Chana',
+    ],
+  },
+];
